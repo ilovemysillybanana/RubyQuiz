@@ -1,3 +1,8 @@
+#author: Jose Tobar
+#Purpose: Make a program that can easily create quizes for user, using JSON.
+#Version: 0.1
+#Date: May 19, 2012
+
 require 'json'
 
 file = File.read('quiz.rb')
